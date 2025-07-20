@@ -19,8 +19,8 @@ A full-stack job board application built with the MERN stack (MongoDB, Express.j
 Follow these steps to get the project up and running on your local machine.
 
 1. Clone the repository:
-   git clone https://github.com/your-username/job-board.git
-   cd job-board
+   git clone https://github.com/ganapanenichaitrasai/Job-Board.git
+   cd Job-Board
 2. Install backend dependencies:
    cd backend
    npm install
